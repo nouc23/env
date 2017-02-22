@@ -1,18 +1,16 @@
 # TODO
-```
-pacman -S git wget vim mc tree
-```
 
-- i3wm
+- dunst
 - conky
-- terminix
+- oh-my-zsh + agnoster/avit
+
 - chrome
 - grive
 - wine
 - photoshop
 - vlc
 - spotify
-- foobar/aimp
+- foobar/aimp/etc
 - some file manager
 - 7zip
 - fusion360??
